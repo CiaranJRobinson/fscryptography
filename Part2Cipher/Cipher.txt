@@ -1,0 +1,13 @@
+Cipher :
+move all letters into number equivalents
+a= 1
+b= 2 
+etc
+translate all to lowercase, and symbols stay the same
+
+I love cryptography!
+becomes
+9 12-15-22-5 3-18-25-16-20-15-7-18-1-16-8-25!
+reversed
+!25-8-16-1-18-7-15-20-16-25-18-3 5-22-15-12 9
+
